@@ -34,7 +34,6 @@
 > This repo is for Practice, that fetch data from a built in Api that display random greetings to the user everytime the browser refresh
 
 ## Back-end Repository
-
 [Rails back end](https://github.com/Amazinggracee/hello-react-front-end/tree/staging)
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -114,8 +113,6 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👨‍💻  **Amarachi Dimkpa**
 
 - GitHub: [@amazinggacee](https://github.com/Amazinggracee)
@@ -128,8 +125,6 @@ To run tests, run the following command:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] Api Documentation and customization
 
